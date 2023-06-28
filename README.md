@@ -7,7 +7,7 @@ My name is Gem Nueva and I’m a Software Engineer student at UNISA. On this pag
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@gem6228)
 
 #### 💻 Technologies that I use
-![HTML5](./pics/html.svg) ![CSS3](./pics/css.svg) ![Bootstrap](./pics/bootstrap.svg) ![TailwindCSS](./pics/tailwind.svg) ![JavaScript](./pics/javascript.svg) ![React](./pics/react.svg) 
+![HTML5](./Pics/html.svg) ![CSS3](./Pics/css.svg) ![Bootstrap](./Pics/bootstrap.svg) ![TailwindCSS](./Pics/tailwind.svg) ![JavaScript](./Pics/javascript.svg) ![React](./Pics/react.svg) 
 
 
 - 🌱 I’m currently learning Data Structures in Java
