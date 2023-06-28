@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**GemNueva/GemNueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Who am I?
+My name is Gem Nueva and I’m a Software Engineer student at UNISA. On this page you will find all of my public projects and resources I use.
 
-Here are some ideas to get you started:
+#### 🔗 My Youtube channel
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@gem6228)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) 
+
+
+- 🌱 I’m currently learning Data Structures in Java
+- 💬 Ask me about anything!
+- 📫 How to reach me: nuegb001@mymail.unisa.edu.au
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing sports! 
